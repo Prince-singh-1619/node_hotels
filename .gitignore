@@ -1,4 +1,4 @@
 #ignore node_modules directory
-Day 2/node_modules
-
+node_modules/
+.env
 #other entries
